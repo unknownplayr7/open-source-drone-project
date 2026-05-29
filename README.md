@@ -10,7 +10,7 @@ The project seeks to emphasizes repairability, upgradeability, simulation-driven
 - docs/final-steps -> Where you can find the finished product
 - docs/final-steps/conclusion.md -> As the name suggests, it's the conclusion
 - docs/final-steps/the-finished-drone (N) -> Where you can find the final product and it's info
-- docs/drone-versions/All drones -> Stuff that should apply to all versions.
+- docs/drone-versions/Requirements.md -> Stuff that should apply to all versions.
 ## Current Version
 MK0 (Bill)
 
