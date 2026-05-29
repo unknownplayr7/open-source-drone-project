@@ -14,9 +14,11 @@ software/       -> Companion computer and autonomy code
 ## Current Version
 MK0 (Bill)
 ## Version History And Planned Versions
-MK0 (Bill) - Design and Research Prototype, No flight capabilities planned for this version
-MK1 (Cicada) - Improved MK0, 
-MK2 (
+- MK0 (Bill) - Design and Research Prototype, No flight capabilities planned for this version
+- MK1 (Cicada) - Improved MK0, 
+- MK2 (___)
+- MK3 (___)
+- MK4 (___)
 ## Goals
 - Modular hardware
 - Open-source firmware
