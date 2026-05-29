@@ -44,6 +44,7 @@ MK0 (Bill) - Design and Research Phase
 - Mission Planner (for drone control and configuration)
 - ExpressLRS (RC link)
 - Autodesk Fusion (CAD)
+- ProjectAirSim (Testbed)
 
 ## Safety
 Nothing here, due to the fact that the drone isn't even online.
