@@ -1,7 +1,7 @@
 # Open Source Drone
 Open Source Drone is a modular quadcopter platform focused on learning aerospace engineering, robotics, and autonomous systems through fully open-source hardware and software.
 
-The project seeks emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development, while also attempting to make access to drones easier and less cost-intensive (hopefuly). 
+The project seeks to emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development, while also attempting to make access to drones easier and less cost-intensive (hopefully). 
 
 ## Repository Structure
 - docs/           -> The main 'shell'
@@ -13,7 +13,7 @@ The project seeks emphasizes repairability, upgradeability, simulation-driven te
 ## Current Version
 MK0 (Bill)
 
-## Version History And Planned Versions
+## Version History and Planned Versions
 - MK0 (Bill) - Design and Research Prototype, No flight capabilities planned for this version.
 - MK1 (Penguin) - Improved MK0, Will be used for electronics testing, Not planned for flight, Will use rotors producing no lift.
 - MK2 (Cicada) - First flight capable model, external mounting points and autonomous capabilities are not planned.
@@ -41,6 +41,15 @@ MK0 (Bill)
 - External mounting points
 - Upgradeability
 
+## Design Constraints
+- Low manufacturing cost
+- Modular replaceable components
+- Consumer-accessible tooling
+- 3D printable structural parts
+- Simulation-first validation workflow
+- Minimized proprietary dependencies
+- FAA regulations
+  
 ## Current Status
 - [ ] Research and calculations
 - [ ] Frame design
