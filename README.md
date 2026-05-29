@@ -1,7 +1,7 @@
 # Open Source Drone
 Open Source Drone is a modular quadcopter platform focused on learning aerospace engineering, robotics, and autonomous systems through fully open-source hardware and software.
 
-The project emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development.
+The project seeks emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development, while also attempting to make access to drones easier and less cost-intensive (hopefuly). 
 
 ## Current Version
 MK0 (Bill)
