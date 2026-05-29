@@ -1,6 +1,5 @@
 # Open Source Drone
 
-A fully open-source autonomous drone platform built for learning aerospace, robotics, and embedded systems.
 
 ## Goals
 - Modular hardware
@@ -9,18 +8,25 @@ A fully open-source autonomous drone platform built for learning aerospace, robo
 - Computer vision support
 - 3D printable components
 
-## Features
+## Planned Features
 - ArduPilot flight stack
 - ExpressLRS radio system
 - GPS waypoint navigation
 - Telemetry support
 - Future AI vision support
+- External mounting points
+- Upgradeability
 
 ## Current Status
-- [ ] Frame design
+- [ ] Research and calculations
+- [ ] Frame design and testing
 - [ ] Electronics integration
+- [ ] Simulations
+- [ ] Edits and revisions (if needed)
 - [ ] First flight
+- [ ] Edits and revisions (if needed)
 - [ ] GPS hold
+- [ ] Edits and revisions (if needed)
 - [ ] Autonomous navigation
 
 ## Hardware
