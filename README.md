@@ -3,6 +3,14 @@ Open Source Drone is a modular quadcopter platform focused on learning aerospace
 
 The project seeks emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development, while also attempting to make access to drones easier and less cost-intensive (hopefuly). 
 
+## Repository Structure
+cad/            -> CAD files and frame designs
+docs/           -> Documentation and guides
+electronics/    -> Wiring diagrams and schematics
+firmware/       -> ArduPilot configs and parameters
+simulations/    -> Simulation environments and testing
+software/       -> Companion computer and autonomy code
+
 ## Current Version
 MK0 (Bill)
 ## Version History
@@ -13,6 +21,10 @@ MK0 (Bill) - Design and Research Phase
 - Autonomous flight capability
 - Computer vision support
 - 3D printable components
+- Modular payload system
+- Obstacle avoidance
+- SLAM mapping
+- Autonomous mission planning
 
 ## Planned Features
 - ArduPilot flight stack
@@ -25,16 +37,15 @@ MK0 (Bill) - Design and Research Phase
 
 ## Current Status
 - [ ] Research and calculations
-- [ ] Frame design and testing
+- [ ] Frame design
 - [ ] Electronics integration
-- [ ] Simulations
-- [ ] Edits and revisions (if needed)
-- [ ] First flight
-- [ ] Edits and revisions (if needed)
-- [ ] GPS hold
-- [ ] Edits and revisions (if needed)
+- [ ] Simulation validation
+- [ ] Initial flight testing
+- [ ] Flight stabilization tuning
+- [ ] GPS hold implementation
 - [ ] Autonomous navigation
-
+- [ ] Computer vision integration
+      
 ## Hardware
 - 3D printed parts
 - COTS electronics (more info to follow)
@@ -47,7 +58,17 @@ MK0 (Bill) - Design and Research Phase
 - ProjectAirSim (Testbed)
 
 ## Safety
-Nothing here, due to the fact that the drone isn't even online.
+This project is currently in early development and has not yet been flight tested.
+
+Future testing will follow:
+- Controlled indoor/isolated outdoor environments
+- Pre-flight inspection procedures
+- Battery safety protocols
+- Propeller safety precautions
+- Local drone regulations and airspace rules
+
+## Contributing
+If you manage to stumble on this project, pull requests, issue reports, and suggestions are welcome.
 
 ## License
 MIT
