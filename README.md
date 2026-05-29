@@ -4,14 +4,15 @@ Open Source Drone is a modular quadcopter platform focused on learning aerospace
 The project seeks emphasizes repairability, upgradeability, simulation-driven testing, and transparent documentation throughout development, while also attempting to make access to drones easier and less cost-intensive (hopefuly). 
 
 ## Repository Structure
-docs/           -> The main 'shell'
-docs/drone-versions -> Where you can see more info about the drones
-docs/drone-versions/MK_ (_______) -> Where you can see info about specific drones
-docs/final-steps -> Where you can find the finished product
-docs/final-steps/conclusion.md -> As the name suggests, it's the conclusion
-docs/final-steps/the-finished-drone (N) -> Where you can find the final product and it's info
+- docs/           -> The main 'shell'
+- docs/drone-versions -> Where you can see more info about the drones
+- docs/drone-versions/MK_ (_______) -> Where you can see info about specific drones
+- docs/final-steps -> Where you can find the finished product
+- docs/final-steps/conclusion.md -> As the name suggests, it's the conclusion
+- docs/final-steps/the-finished-drone (N) -> Where you can find the final product and it's info
 ## Current Version
 MK0 (Bill)
+
 ## Version History And Planned Versions
 - MK0 (Bill) - Design and Research Prototype, No flight capabilities planned for this version.
 - MK1 (Penguin) - Improved MK0, Will be used for electronics testing, Not planned for flight, Will use rotors producing no lift.
@@ -19,6 +20,7 @@ MK0 (Bill)
 - MK3 (___)
 - MK4 (___)
 - The Finished Drone (N) - Hopefuly the last drone, might see use as a base, like Bill.
+
 ## Goals
 - Modular hardware
 - Open-source firmware
