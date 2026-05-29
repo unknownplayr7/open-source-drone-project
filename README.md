@@ -15,7 +15,7 @@ The project seeks to emphasizes repairability, upgradeability, simulation-driven
 MK0 (Bill)
 
 ## Version History and Planned Versions
-- MK0 (Bill) - Design and Research Prototype, No flight capabilities planned for this version.
+- MK0 (Bill) - Design and Research Prototype, No flight capabilities or electronics planned for this version.
 - MK1 (Penguin) - Improved MK0, Will be used for electronics testing, Not planned for flight, Will use rotors producing no lift.
 - MK2 (Cicada) - First flight capable model, external mounting points and autonomous capabilities are not planned.
 - MK3 (___)
