@@ -1,11 +1,11 @@
 ## Requirements
-- Flight Time: TBD
-- Target Weight: TBD
+- Flight Time: 45 minutes
+- Target Weight: <5kg
 - Frame Material: PETG Prototype
 - Flight Controller: TBD
-- Propeller Size: TBD
+- Propeller Size: 
 - Battery Voltage: TBD
-- Maximum Payload: TBD
+- Maximum Payload: 2.5kg
 
 ## Design Constraints
 - Low cost
