@@ -1,11 +1,17 @@
-# Requirements
+## Requirements
+- Flight Time: TBD
+- Target Weight: TBD
+- Frame Material: PETG Prototype
+- Flight Controller: TBD
+- Propeller Size: TBD
+- Battery Voltage: TBD
+- Maximum Payload: TBD
 
-Frame: ~400 mm class
+## Design Constraints
+- Low cost
+- Repairability
+- 3D-printable structure
+- Consumer-accessible manufacturing
+- Open-source software stack
+- Simulation-first testing
 
-Voltage: 6S LiPo
-
-System: full-stack (GPS + telemetry + future autonomy ready)
-
-Flight Stack: ArduPilot
-
-Manufacturing: 3D printed PETG/PLA (prototype-level), COTS
