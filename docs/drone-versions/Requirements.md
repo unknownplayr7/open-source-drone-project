@@ -1,4 +1,4 @@
-## Requirements
+## Final Requirements
 - Flight Time: 45 minutes
 - Target Weight: <5kg
 - Frame Material: PETG Prototype
