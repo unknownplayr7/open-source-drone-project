@@ -88,6 +88,14 @@ Future testing will follow:
 - Propeller safety precautions
 - Local drone regulations and airspace rules
 
+## Rule of thumb
+
+This project currently operates on a single active MK design.
+
+All development must reference `design/current_mk_spec.md`.
+
+Other future MK versions are conceptual only and not active.
+
 ## Contributing
 
 If you manage to stumble on this project, pull requests, issue reports, and suggestions are welcome.
