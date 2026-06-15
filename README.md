@@ -56,6 +56,16 @@ MK0 (Bill)
 - External mounting points
 - Upgradeability
 
+  ## Airframe Requirements
+- Quadcopter configuration
+- 3D-printable primary structure
+- Compatible with future MK3 upgrades
+- Replaceable arms
+- Accessible electronics bay
+- Modular mounting points
+- Flight-capable weight class (>250 g)
+- Designed for outdoor operation
+
 ## Design Constraints
 - Low manufacturing cost
 - Modular replaceable components
@@ -99,6 +109,7 @@ Future testing will follow:
 
 ## Contributing
 If you manage to stumble on this project, pull requests, issue reports, and suggestions are welcome.
+
 
 ## License
 MIT
