@@ -4,10 +4,10 @@
 MK0 (Bill)
 
 ## Purpose
-MK0 is a design and research prototype used for concept exploration, sketches, and documentation.
+MK0 is a design and research prototype used for concept exploration, digital modeling, and documentation.
 
 ## Scope
-- Concept sketches
+- Digital design concepts
 - Design exploration
 - Research and documentation
 
