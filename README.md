@@ -19,13 +19,12 @@ The project seeks to emphasizes repairability, upgradeability, simulation-driven
 - drones/final-steps/the-finished-drone (N) -> Where you can find the finished drone and it's info
 - drones/drone-versions/Requirements.md -> Stuff that should apply to all versions.
 - elecronics/MK_ (_______).md -> Where you can see the planned layout of the electronics
-- cad/MK_ (_______)/[insert file name here] -> STL files for the drone
-- sketches/MK_ (_______)/[insert file name here] -> Sketches and rough drafts can be found here
+- cad/MK_ (_______)/[insert file name here] -> CAD and design files for the drone
+- concepts/MK_ (_______)/[insert file name here] -> Digital concepts and design iterations can be found here
 - calculations/all.md -> Calculations that form the bare minimun
 - calculations/MK_ (_______).md -> Specialized calculations, may not be used
 - simulations/MK_ (_______).md -> Specialized simulations for the drone
 
-  
 ## Current Version
 
 MK0 (Bill)
@@ -50,7 +49,7 @@ MK0 (Bill)
 - Obstacle avoidance
 - SLAM mapping
 - Autonomous mission planning
-  
+
 ## Current Status
 
 - [x] Research and calculations
